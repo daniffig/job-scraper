@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# job-scraper
+a Rails web scraper for job offers
+>>>>>>> c3d7fa1010c792dec9d14cc26f78f96fd3e29e63
